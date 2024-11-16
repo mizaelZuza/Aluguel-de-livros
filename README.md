@@ -6,7 +6,8 @@
 
 * A aplicação utiliza um sistema de cardão (ou "game clicado") para representar cada jogo.
 * Cada cardão tem um botão para alugar ou devolver o jogo.
-* Ao clicar no botão, a aplicação verifica se você deseja alugar ou devolver o jogo. Se você escolher alugar, o botão muda de texto e a imagem do jogo é exibida com uma classe "rented".
+* Ao clicar no botão, a aplicação verifica se você deseja alugar ou devolver o jogo.
+* Se você escolher alugar, o botão muda de texto e a imagem do jogo é exibida com uma classe "rented".
 * Para devolver, o botão muda de texto novamente e a imagem do jogo é removida da classe "rented".
 * O número total de jogos alugados é atualizado em tempo real e está disponível para visualização.
 
